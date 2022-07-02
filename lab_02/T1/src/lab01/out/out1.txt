@@ -1,0 +1,20 @@
+programming     11     1,3  	Down
+java            4      6,12 	UpLeft
+words           5      10,8  	Up
+lines           5      7,1  	Down
+civil           5      12,12 	Up
+test            4      8,11 	Down
+stack           5      8,6  	Up
+
+..P.........
+..R.........
+..O.....A...
+..G..K...V..
+..R..C....A.
+..A..A.S...J
+L.M..T.D....
+I.M..S.R..TL
+N.I....O..EI
+E.N....W..SV
+S.G.......TI
+...........C

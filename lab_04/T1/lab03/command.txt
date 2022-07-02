@@ -1,0 +1,11 @@
+I flight1.txt
+i flight2.txt
+f sat321 5x3 15x3
+m sat321
+r sat321 T 5
+r sat321 E 5
+R sat321 E 1
+R sat321 T 10
+m sat321
+C sat321:1
+m sat321

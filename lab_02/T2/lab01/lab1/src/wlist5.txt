@@ -1,0 +1,3 @@
+ring;rain;
+dream;follow;install
+recruit;squeeze;suit

@@ -1,0 +1,21 @@
+Palavra         Tamanho         Localizacao     Direção              Encontrada
+programming     11              12,6            Up                          Sim
+java            4               9,1             Down                        Sim
+words           5               11,11           UpLeft                      Sim
+lines           5               5,5             Left                        Sim
+civil           5               6,11            Down                        Sim
+test            4               2,8             Right                       Sim
+stack           5               1,1             Right                       Sim
+
+STACK*******
+*****G*TEST*
+*****N******
+*****I******
+SENILM******
+*****M****C*
+*****AS***I*
+*****R*D**V*
+J****G**R*I*
+A****O***OL*
+V****R****W*
+A****P******

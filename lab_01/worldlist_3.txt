@@ -1,0 +1,7 @@
+caneta
+caderno
+lapis
+borracha
+amigo
+programa
+livro

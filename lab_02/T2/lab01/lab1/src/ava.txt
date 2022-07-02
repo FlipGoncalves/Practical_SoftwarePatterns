@@ -1,0 +1,23 @@
+Palavra         Tamanho         Localizacao     Direção              Encontrada
+available       9               12,3            UpRight                     Sim
+unused          6               6,4             UpRight                     Sim
+actual          6               6,7             UpLeft                      Sim
+dead            4               2,5             DownRight                   Sim
+eight           5               7,10            Down                        Sim
+hateful         7               -               -                           Nao
+quick           5               3,8             Right                       Sim
+fair            4               -               -                           Nao
+languid         7               -               -                           Nao
+
+*L******D***
+**A*D**E****
+***U*ESQUICK
+****TUA***E*
+****NC*D*L**
+***U**A*B***
+*******A*E**
+******L**I**
+*****I***G**
+****A****H**
+***V*****T**
+**A*********

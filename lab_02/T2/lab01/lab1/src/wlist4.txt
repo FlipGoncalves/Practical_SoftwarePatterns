@@ -1,0 +1,3 @@
+reinforce;knock;meet
+submit;draft;write;compile
+punish;expect;opt;demand

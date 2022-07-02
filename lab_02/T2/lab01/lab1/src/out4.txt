@@ -1,0 +1,33 @@
+Palavra         Tamanho         Localizacao     Direção              Encontrada
+request         7               10,16           Down                        Sim
+participate     11              2,15            DownLeft                    Sim
+confirm         7               15,15           UpLeft                      Sim
+associate       9               3,12            DownLeft                    Sim
+cry             3               11,19           DownLeft                    Sim
+act             3               7,7             UpRight                     Sim
+return          6               12,4            UpRight                     Sim
+help            4               20,7            UpLeft                      Sim
+name            4               8,1             UpRight                     Sim
+challenge       9               10,12           UpRight                     Sim
+circulate       9               -               -                           Nao
+
+********************
+**************P****E
+***********A*A****G*
+**********S*R****N**
+***E****TS*T****E***
+**M****CO*I****L****
+*A****ACNC****L*****
+N*****IRI****A******
+*****AUPM***H*******
+****TTA**R*C***R****
+***EET****I****E**C*
+***RE******F***Q*R**
+************N**UY***
+*************O*E****
+**************CS****
+***************T****
+***P****************
+****L***************
+*****E**************
+******H*************
